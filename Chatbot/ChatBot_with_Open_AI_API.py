@@ -6,8 +6,7 @@ We use an API key, which is generated from open AI site, and save in a local txt
 First, we create a virtual python environment and install the openai package. we use such virutual environemnt to sotre our secret keys
 (Use [pip install virtualenv , virtualenv env] to create a virtual environment. Then use [source env/scripts/activate] to activate the environment. 
 add requriemnts.txt file with the content "openai" and "python-dotenv" packages. then run pip install -r requirements.txt to install those packaes
-run [pip install -r requirements.txt] to install the package.
-Then, use [  pip install openai] to install the package)
+
 """
 
 #import libraries

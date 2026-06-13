@@ -8,6 +8,7 @@ venv/
 env/
 .venv/
 .env
+ragas_env/
 
 # Jupyter
 .ipynb_checkpoints/

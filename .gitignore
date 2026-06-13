@@ -31,3 +31,7 @@ data/
 # Models
 *.pkl
 *.joblib
+
+#api keys
+chatbot_gpt_API_key.txt
+Neo4j-07d65a9d-Created-2026-06-02.txt
